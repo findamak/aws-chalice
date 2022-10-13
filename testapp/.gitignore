@@ -1,0 +1,9 @@
+.chalice/deployments/
+.chalice/deployed/
+.chalice/venv/
+.chalice/config.json
+.venv/
+.vscode/
+.__pycache__/
+.tests/
+.env

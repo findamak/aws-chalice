@@ -6,7 +6,7 @@ mkdir chalice && cd chalice
 ```
 Setup your python virtual env and install the chalice and twilio modules.
 ```sh
-python38 -m venv venv
+python3.8 -m venv venv
 source venv/bin/activate
 pip install chalice
 pip install twilio

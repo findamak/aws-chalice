@@ -63,7 +63,7 @@ You should get a response similar to:
 ```
 {"status":"success","data":"SM484ae8518dbd738f9230c49588bb1083","message":"SMS successfully sent"}
 ```
-Now deploy to AWS.
+Setup your AWS credentials and configuration files as described [here](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html). Now deploy to AWS.
 ```sh
 chalice deploy
 ```
